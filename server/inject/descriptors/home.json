@@ -1,0 +1,13 @@
+{
+  "type": "object",
+  "comment": "home",
+  "properties": {
+    "searchtext": {
+      "type": "string"
+    },
+    "submit": {
+      "type": "action"
+    }
+  },
+  "connect": []
+}
