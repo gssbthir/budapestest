@@ -2,6 +2,13 @@
   "home": {
     "type": "object",
     "comment": "home",
-    "properties": {}
+    "properties": {
+      "searchtext": {
+        "type": "string"
+      },
+      "submit": {
+        "type": "action"
+      }
+    }
   }
 }
