@@ -3,7 +3,8 @@
   "comment": "home",
   "properties": {
     "searchtext": {
-      "type": "string"
+      "type": "string",
+      "selector": "#lst-ib"
     },
     "submit": {
       "type": "action"
