@@ -4,7 +4,8 @@
   "properties": {
     "searchtext": {
       "type": "string",
-      "selector": "#lst-ib"
+      "selector": ".sfibbbc",
+      "control": "text"
     },
     "submit": {
       "type": "action"
