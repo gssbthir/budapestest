@@ -1,1 +1,7 @@
-{}
+{
+  "home": {
+    "type": "object",
+    "comment": "home",
+    "properties": {}
+  }
+}
