@@ -4,5 +4,11 @@
   "defaultLayout": "phone-portrait",
   "previewToken": "27b56e25",
   "uiCommonVersion": "5.2.10",
-  "creatorId": "admin"
+  "creatorId": "admin",
+  "id": "budapestest",
+  "previewImageURL": "/previews/27b56e25-budapestest/app/blank.png",
+  "isVersioned": true,
+  "githubRepo": "https://github.com/gssbthir/budapestest",
+  "creatorName": "PowWow Admin",
+  "sdks": []
 }
