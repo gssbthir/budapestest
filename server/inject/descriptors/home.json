@@ -7,11 +7,6 @@
       "selector": "#lst-ib",
       "control": "text"
     },
-    "submit": {
-      "type": "action",
-      "selector": "[name=\"btnK\"]",
-      "control": "action.button"
-    },
     "issearch": {
       "type": "identifier"
     }
