@@ -2,11 +2,6 @@
   "type": "object",
   "comment": "home",
   "properties": {
-    "searchtext": {
-      "type": "string",
-      "selector": "#lst-ib",
-      "control": "text"
-    },
     "issearch": {
       "type": "identifier"
     }
