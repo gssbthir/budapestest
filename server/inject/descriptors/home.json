@@ -8,5 +8,12 @@
       "control": "exists"
     }
   },
-  "connect": []
+  "connect": [
+    {
+      "match": [
+        "issearch"
+      ],
+      "event": "navhome"
+    }
+  ]
 }
