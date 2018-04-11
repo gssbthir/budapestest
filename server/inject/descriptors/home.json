@@ -3,7 +3,9 @@
   "comment": "home",
   "properties": {
     "issearch": {
-      "type": "identifier"
+      "type": "identifier",
+      "selector": "body",
+      "control": "exists"
     }
   },
   "connect": []
